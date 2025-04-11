@@ -1,4 +1,4 @@
-# 🖼️ PPM Image Processor in C
+# PPM Image Processor in C
 
 A lightweight C program that processes PPM (P6) image files by applying a convolution-based sharpening filter and generating a brightness histogram.
 
