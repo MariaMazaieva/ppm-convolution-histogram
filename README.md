@@ -47,7 +47,4 @@ A C program that processes PPM (P6) image files by applying a convolution-based 
 - GCC or any C compiler
 - A valid PPM (P6) image
 
-### 🧪 Compile the program:
 
-```bash
-gcc -o ppm_processor main.c -lm
