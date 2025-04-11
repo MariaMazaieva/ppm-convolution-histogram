@@ -1,16 +1,16 @@
 # 🖼️ PPM Image Processor in C
 
-A lightweight C program that processes PPM (P6) image files by applying a convolution-based sharpening filter and generating a brightness histogram. Ideal for learning low-level image manipulation and pixel-level operations.
+A lightweight C program that processes PPM (P6) image files by applying a convolution-based sharpening filter and generating a brightness histogram.
 
 ---
 
 ## ✨ Features
 
-- ✅ Reads PPM (P6) image files
-- 🔍 Applies a convolution filter to sharpen the image
-- 📊 Calculates brightness histogram (5-level grayscale bands)
-- 💾 Saves filtered image (`output.ppm`)
-- 📝 Writes histogram data to `output.txt`
+- Reads PPM (P6) image files
+- Applies a convolution filter to sharpen the image
+- Calculates brightness histogram (5-level grayscale bands)
+- Saves filtered image (`output.ppm`)
+- Writes histogram data to `output.txt`
 
 ---
 
@@ -41,9 +41,9 @@ A lightweight C program that processes PPM (P6) image files by applying a convol
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-### 🧰 Prerequisites
+### Prerequisites
 - GCC or any C compiler
 - A valid PPM (P6) image
 
